@@ -1,5 +1,5 @@
 {
-  "name": "hooray-server",
+  "name": "@komphet/hooray-server",
   "version": "1.0.0",
   "description": "Component package of Hooray framework",
   "main": "lib/index.js",
