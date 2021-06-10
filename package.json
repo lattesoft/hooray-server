@@ -1,6 +1,6 @@
 {
   "name": "@lattesoft/hooray-server",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Component package of Hooray framework",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
